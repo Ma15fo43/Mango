@@ -29,8 +29,8 @@
     "url": "git+https://github.com/mazzlabs/mango.git"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.31.0",
-    "@typescript-eslint/parser": "^4.31.0",
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
+    "@typescript-eslint/parser": "^4.31.2",
     "eslint": "^7.32.0"
   }
 }
